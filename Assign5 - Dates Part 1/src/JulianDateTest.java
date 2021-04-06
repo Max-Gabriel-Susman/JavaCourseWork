@@ -111,7 +111,15 @@ public class JulianDateTest {
         for (int year = leapYears[0]; year < leapYears[leapYears.length - 1]; year++) {
             JulianDate date = new JulianDate(year, month, day);
 
+            System.out.println(year);
+            /*
+            System.out.println(month);
+            System.out.println(day);
+            */
+            System.out.println(date.isLeapYear());
+
             if (year == leapYears[leapYearIndex]) {
+
                 Assert.assertTrue("Leap year test 1 wrong", date.isLeapYear());
                 leapYearIndex++;
             } else {
