@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="732e47cb-e927-415e-9b46-96473e3700ef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assign5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GregorianDate.Java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GregorianDate.Java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GregorianDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GregorianDateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JulianDate.Java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JulianDate.Java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JulianDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JulianDateTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +58,17 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RunManager" selected="Application.DivisionFun">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DivisionFun" />
+      <module name="Assign5 - Dates Part 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,9 +165,11 @@
       <item itemvalue="JUnit.Unit Tests" />
       <item itemvalue="JUnit.GregorianDateTest" />
       <item itemvalue="JUnit.JulianDateTest" />
+      <item itemvalue="Application.DivisionFun" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DivisionFun" />
         <item itemvalue="JUnit.GregorianDateTest" />
         <item itemvalue="JUnit.JulianDateTest" />
       </list>
