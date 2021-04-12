@@ -44,7 +44,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550679209808" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assign7 - ConwaysLife" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -162,10 +162,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Driver" />
+      <item itemvalue="Application.DivisionFun" />
       <item itemvalue="JUnit.Unit Tests" />
       <item itemvalue="JUnit.GregorianDateTest" />
       <item itemvalue="JUnit.JulianDateTest" />
-      <item itemvalue="Application.DivisionFun" />
     </list>
     <recent_temporary>
       <list>

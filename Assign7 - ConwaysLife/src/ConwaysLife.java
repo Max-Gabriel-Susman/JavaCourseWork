@@ -45,4 +45,8 @@ public class ConwaysLife {
         } catch (Exception ex) {
         }
     }
+
+    public static void render(LifeSimulator simulation, Screen screen, TextGraphics graphics) {
+
+    }
 }
