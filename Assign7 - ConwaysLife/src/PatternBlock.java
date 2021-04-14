@@ -8,18 +8,14 @@ public class PatternBlock extends Pattern {
     };
 
     public int getSizeX() {
-
         return 4;
     }
 
     public int getSizeY() {
-
-
         return 4;
     }
 
     public boolean getCell(int x, int y) {
-
-        return false;
+        return cells[x][y];
     }
 }

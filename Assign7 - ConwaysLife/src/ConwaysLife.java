@@ -14,17 +14,21 @@ public class ConwaysLife {
             TextGraphics graphics = screen.newTextGraphics();
 
             TerminalSize size = screen.getTerminalSize();
-            // LifeSimulator simulation = new LifeSimulator(size.getColumns(), size.getRows());
+            LifeSimulator simulation = new LifeSimulator(size.getColumns(), size.getRows());
+            simulation.insertPattern(new PatternBlock(), 0, 0);
+            simulation.insertPattern(new PatternBlinker(), 0, 10);
+            simulation.insertPattern(new PatternGlider(), 15, 15);
+            simulation.insertPattern(new PatternAcorn(), 10, 20);
 
             screen.startScreen();
             screen.setCursorPosition(null);
 
             for (int i = 0; i < 50; i++) {
-                //render(simulation, screen, graphics);   // Render the current state of the simulation
-                sampleRender(screen, graphics, i);
+                render(simulation, screen, graphics);   // Render the current state of the simulation
+                //sampleRender(screen, graphics, i);
                 Thread.yield();                         // Let the JVM have some time to update other things
                 Thread.sleep(100);                // Sleep for a bit to make for a nicer paced animation
-                //simulation.update();                    // Tell the simulation to update
+                simulation.update();                    // Tell the simulation to update
             }
 
             screen.stopScreen();
@@ -37,7 +41,7 @@ public class ConwaysLife {
         screen.clear();
 
         // Not very interesting, but showing how to set characters
-        graphics.setCharacter(xPos, 10, 'X');
+        //graphics.setCharacter(xPos, 10, 'X');
 
         // This is what causes the console to render the new state, it is required
         try {
@@ -47,6 +51,19 @@ public class ConwaysLife {
     }
 
     public static void render(LifeSimulator simulation, Screen screen, TextGraphics graphics) {
+        screen.clear();
 
+        for(int row = 0; row < simulation.getSizeX(); row ++) {
+            for (int column = 0; column < simulation.getSizeY(); column ++) {
+                if(simulation.getCell(row,column)) {
+                    graphics.setCharacter(row, column, 'X');
+                }
+            }
+        }
+
+        try {
+            screen.refresh();
+        } catch (Exception ex) {
+        }
     }
 }

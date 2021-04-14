@@ -3,9 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="4aac3e59-b25b-4cd7-9a88-7387c25c8436" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Assign5 - Dates Part 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign5 - Dates Part 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6 - Dates Part 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6 - Dates Part 2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ConwaysLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConwaysLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LifeSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LifeSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternAcorn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternAcorn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternBlinker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternBlinker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PatternGlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternGlider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestLifeSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestLifeSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestPatterns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +48,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assign6 - Dates Part 2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -58,10 +65,28 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RunManager" selected="JUnit.TestLifeSimulator">
     <configuration name="Driver" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ConwaysLife" />
       <module name="Assign7 - ConwaysLife" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLifeSimulator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assign7 - ConwaysLife" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestLifeSimulator" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assign7 - ConwaysLife" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPatterns" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -83,7 +108,15 @@
     <list>
       <item itemvalue="Application.Driver" />
       <item itemvalue="JUnit.Unit Tests" />
+      <item itemvalue="JUnit.TestPatterns" />
+      <item itemvalue="JUnit.TestLifeSimulator" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestLifeSimulator" />
+        <item itemvalue="JUnit.TestPatterns" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -98,15 +131,5 @@
       <updated>1571942556291</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1022" y="344" key="#Project_Structure" timestamp="1602612263118">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1022" y="344" key="#Project_Structure/-3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1602612263118" />
-    <state x="1322" y="524" key="FileChooserDialogImpl" timestamp="1602612270615">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1322" y="524" key="FileChooserDialogImpl/-3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1602612270615" />
   </component>
 </project>

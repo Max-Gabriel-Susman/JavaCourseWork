@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="732e47cb-e927-415e-9b46-96473e3700ef" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6 - Dates Part 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6 - Dates Part 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/ConwaysLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/ConwaysLife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/LifeSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/LifeSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternAcorn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternAcorn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternBlinker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternBlinker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternGlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternGlider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/TestLifeSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/TestLifeSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/TestPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/TestPatterns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +54,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550679209808" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assign7 - ConwaysLife" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />

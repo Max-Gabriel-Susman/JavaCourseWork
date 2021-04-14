@@ -17,7 +17,6 @@ public class PatternGlider extends Pattern {
     }
 
     public boolean getCell(int x, int y) {
-
-        return false;
+        return cells[x][y];
     }
 }
