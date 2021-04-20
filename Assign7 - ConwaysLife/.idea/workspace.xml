@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aac3e59-b25b-4cd7-9a88-7387c25c8436" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Assign5 - Dates Part 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign5 - Dates Part 1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assign6 - Dates Part 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6 - Dates Part 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConwaysLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConwaysLife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LifeSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LifeSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PatternAcorn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternAcorn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PatternBlinker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternBlinker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PatternBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PatternGlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PatternGlider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestLifeSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestLifeSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestPatterns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

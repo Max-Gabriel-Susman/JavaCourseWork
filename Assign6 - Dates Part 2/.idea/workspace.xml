@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24818724-3378-4180-bc46-f34268c16f38" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Assign5 - Dates Part 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign5 - Dates Part 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/ConwaysLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/ConwaysLife.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/LifeSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/LifeSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternAcorn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternAcorn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternBlinker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternBlinker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternGlider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/PatternGlider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/TestLifeSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/TestLifeSimulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/TestPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7 - ConwaysLife/src/TestPatterns.java" afterDir="false" />
-    </list>
+    <list default="true" id="24818724-3378-4180-bc46-f34268c16f38" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
